@@ -11,6 +11,9 @@ available demographic.
 The data set included with the project is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml. 
 The current data set includes data on rates of income, obesity, poverty, etc. by state. MOE stands for “margin of error.”
 
+## Deployed project
+https://cristycarmona.github.io/D3-challenge/
+
 ## Libraries used: 
 d3.js
 
